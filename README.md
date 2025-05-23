@@ -1,4 +1,4 @@
-Game Dev Simulation – Features
+🎮 Game Dev Simulation – Features
 Text-based simulation of running a game development studio.
 
 Develop games of three sizes: small, medium, big.
@@ -31,7 +31,7 @@ Money, days, and fans are tracked and shown at the bottom of the screen.
 
 Simple, clean UI with clear prompts and feedback.
 
-Commands
+🕹️ Commands
 Command	What it does
 
 develop small	Start developing a small game (then name it and set a price)
@@ -50,7 +50,7 @@ During development:
 
 You’ll be prompted to enter a game name and then a price (within a suggested range).
 
-How the Simulation Works
+💡 How the Simulation Works
 Development:
 
 Choose size, name, and price for your game.
@@ -71,7 +71,7 @@ At the end of the sales phase, your profit is buyers × price.
 
 Successful games gain you more fans; flops may lose you fans.
 
-UI Overview
+📊 UI Overview
 Main message area: Top left, always shows the latest prompt or event.
 
 Sales graph: Right side, shows buyers over time during sales.

@@ -1,3 +1,6 @@
+Version v0.5.0
+
+
 🎮 Game Dev Simulation – Features
 Text-based simulation of running a game development studio.
 

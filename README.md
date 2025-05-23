@@ -33,12 +33,19 @@ Simple, clean UI with clear prompts and feedback.
 
 Commands
 Command	What it does
+
 develop small	Start developing a small game (then name it and set a price)
+
 develop medium	Start developing a medium game (then name it and set a price)
+
 develop big	Start developing a big game (then name it and set a price)
+
 status	Show your current money, days, and fans
+
 help	Show the list of available commands
+
 quit	Exit the game
+
 During development:
 
 You’ll be prompted to enter a game name and then a price (within a suggested range).
